@@ -1,0 +1,10 @@
+^C:\USERS\2001S\ONEDRIVE\DESKTOP\SAIRAM\FLUTTER-CHATGPT-CLONE-MAIN\BUILD\WINDOWS\X64\CMAKEFILES\6117FC5E7734316C49A71C14A6F5B9DC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/2001s/OneDrive/Desktop/Sairam/flutter-chatgpt-clone-main/windows -BC:/Users/2001s/OneDrive/Desktop/Sairam/flutter-chatgpt-clone-main/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/2001s/OneDrive/Desktop/Sairam/flutter-chatgpt-clone-main/build/windows/x64/flutter_chatgpt_clone.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

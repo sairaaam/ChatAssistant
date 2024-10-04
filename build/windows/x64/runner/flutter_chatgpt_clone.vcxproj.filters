@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BB9C884A-6924-31EE-A303-B9FBE9AE3F9E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

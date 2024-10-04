@@ -1,0 +1,28 @@
+^C:\USERS\2001S\ONEDRIVE\DESKTOP\SAIRAM\FLUTTER-CHATGPT-CLONE-MAIN\BUILD\WINDOWS\X64\CMAKEFILES\C12D2155845D57F575BD13AB6E97B3AF\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\flutter\ephemeral PROJECT_DIR=C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main FLUTTER_TARGET=C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\2001S\ONEDRIVE\DESKTOP\SAIRAM\FLUTTER-CHATGPT-CLONE-MAIN\BUILD\WINDOWS\X64\CMAKEFILES\1AE067D13EB63756A23A4BA593794D76\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\2001S\ONEDRIVE\DESKTOP\SAIRAM\FLUTTER-CHATGPT-CLONE-MAIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/2001s/OneDrive/Desktop/Sairam/flutter-chatgpt-clone-main/windows -BC:/Users/2001s/OneDrive/Desktop/Sairam/flutter-chatgpt-clone-main/build/windows/x64 --check-stamp-file C:/Users/2001s/OneDrive/Desktop/Sairam/flutter-chatgpt-clone-main/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\build\windows\x64\CMakeFiles\c12d2155845d57f575bd13ab6e97b3af\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\build\windows\x64\CMakeFiles\1ae067d13eb63756a23a4ba593794d76\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\2001s\OneDrive\Desktop\Sairam\flutter-chatgpt-clone-main\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F457D930-15DB-3C72-A7C7-FC906297AF1F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
