@@ -1,12 +1,22 @@
 # Lexi : A ChatGPT Clone
 
 ## Table of Contents
+- [Screenshots](#screenshots)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
 - [Running the Application](#running-the-application)
+- 
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/Home.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/Chat.png)
+
 
 ## Introduction
 Hi all! Lexi is a clone of ChatGPT. This Flutter application replicates the functionality of ChatGPT using the OpenAI API, allowing users to interact with a conversational AI model. 
